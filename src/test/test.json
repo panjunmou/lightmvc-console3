@@ -1,0 +1,347 @@
+[
+  {
+    "checked": false,
+    "children": [
+      {
+        "checked": false,
+        "children": [],
+        "createDate": 1459474440000,
+        "createUser": "admin",
+        "description": "系统管理-组织机构",
+        "iconCls": "icon-folder",
+        "iconList": [
+          {
+            "label": "父级菜单",
+            "value": "icon-company"
+          },
+          {
+            "label": "子级菜单",
+            "value": "icon-folder"
+          },
+          {
+            "label": "页面",
+            "value": "icon-page"
+          },
+          {
+            "label": "链接",
+            "value": "icon-link"
+          },
+          {
+            "label": "按钮",
+            "value": "icon-btn"
+          }
+        ],
+        "id": 5,
+        "name": "组织机构",
+        "pId": 10001,
+        "resourceNo": 10005,
+        "seq": 1,
+        "state": "open",
+        "status": 1,
+        "statusList": [
+          {
+            "label": "启用",
+            "value": "1"
+          },
+          {
+            "label": "停用",
+            "value": "-1"
+          }
+        ],
+        "type": 0,
+        "typeList": [
+          {
+            "label": "菜单",
+            "value": "0"
+          },
+          {
+            "label": "按钮",
+            "value": "1"
+          },
+          {
+            "label": "链接",
+            "value": "2"
+          },
+          {
+            "label": "页面",
+            "value": "3"
+          }
+        ],
+        "updateDate": 1459474440000,
+        "updateUser": "admin",
+        "url": "/sys/organization/manager"
+      },
+      {
+        "checked": false,
+        "children": [],
+        "createDate": 1459474440000,
+        "createUser": "admin",
+        "description": "系统管理-资源管理",
+        "iconCls": "icon-folder",
+        "iconList": [
+          {
+            "label": "父级菜单",
+            "value": "icon-company"
+          },
+          {
+            "label": "子级菜单",
+            "value": "icon-folder"
+          },
+          {
+            "label": "页面",
+            "value": "icon-page"
+          },
+          {
+            "label": "链接",
+            "value": "icon-link"
+          },
+          {
+            "label": "按钮",
+            "value": "icon-btn"
+          }
+        ],
+        "id": 2,
+        "name": "资源管理",
+        "pId": 10001,
+        "resourceNo": 10002,
+        "seq": 2,
+        "state": "open",
+        "status": 1,
+        "statusList": [
+          {
+            "label": "启用",
+            "value": "1"
+          },
+          {
+            "label": "停用",
+            "value": "-1"
+          }
+        ],
+        "type": 0,
+        "typeList": [
+          {
+            "label": "菜单",
+            "value": "0"
+          },
+          {
+            "label": "按钮",
+            "value": "1"
+          },
+          {
+            "label": "链接",
+            "value": "2"
+          },
+          {
+            "label": "页面",
+            "value": "3"
+          }
+        ],
+        "updateDate": 1459474440000,
+        "updateUser": "admin",
+        "url": "/sys/resource/manager"
+      },
+      {
+        "checked": false,
+        "children": [],
+        "createDate": 1459474440000,
+        "createUser": "admin",
+        "description": "系统管理-角色管理",
+        "iconCls": "icon-folder",
+        "iconList": [
+          {
+            "label": "父级菜单",
+            "value": "icon-company"
+          },
+          {
+            "label": "子级菜单",
+            "value": "icon-folder"
+          },
+          {
+            "label": "页面",
+            "value": "icon-page"
+          },
+          {
+            "label": "链接",
+            "value": "icon-link"
+          },
+          {
+            "label": "按钮",
+            "value": "icon-btn"
+          }
+        ],
+        "id": 3,
+        "name": "角色管理",
+        "pId": 10001,
+        "resourceNo": 10003,
+        "seq": 3,
+        "state": "open",
+        "status": 1,
+        "statusList": [
+          {
+            "label": "启用",
+            "value": "1"
+          },
+          {
+            "label": "停用",
+            "value": "-1"
+          }
+        ],
+        "type": 0,
+        "typeList": [
+          {
+            "label": "菜单",
+            "value": "0"
+          },
+          {
+            "label": "按钮",
+            "value": "1"
+          },
+          {
+            "label": "链接",
+            "value": "2"
+          },
+          {
+            "label": "页面",
+            "value": "3"
+          }
+        ],
+        "updateDate": 1459474440000,
+        "updateUser": "admin",
+        "url": "/sys/role/manager"
+      },
+      {
+        "checked": false,
+        "children": [],
+        "createDate": 1459474440000,
+        "createUser": "admin",
+        "description": "系统管理-用户管理",
+        "iconCls": "icon-folder",
+        "iconList": [
+          {
+            "label": "父级菜单",
+            "value": "icon-company"
+          },
+          {
+            "label": "子级菜单",
+            "value": "icon-folder"
+          },
+          {
+            "label": "页面",
+            "value": "icon-page"
+          },
+          {
+            "label": "链接",
+            "value": "icon-link"
+          },
+          {
+            "label": "按钮",
+            "value": "icon-btn"
+          }
+        ],
+        "id": 4,
+        "name": "用户管理",
+        "pId": 10001,
+        "resourceNo": 10004,
+        "seq": 4,
+        "state": "open",
+        "status": 1,
+        "statusList": [
+          {
+            "label": "启用",
+            "value": "1"
+          },
+          {
+            "label": "停用",
+            "value": "-1"
+          }
+        ],
+        "type": 0,
+        "typeList": [
+          {
+            "label": "菜单",
+            "value": "0"
+          },
+          {
+            "label": "按钮",
+            "value": "1"
+          },
+          {
+            "label": "链接",
+            "value": "2"
+          },
+          {
+            "label": "页面",
+            "value": "3"
+          }
+        ],
+        "updateDate": 1459474440000,
+        "updateUser": "admin",
+        "url": "/sys/user/manager"
+      }
+    ],
+    "createDate": 1459474440000,
+    "createUser": "admin",
+    "description": "系统管理",
+    "iconCls": "icon-company",
+    "iconList": [
+      {
+        "label": "父级菜单",
+        "value": "icon-company"
+      },
+      {
+        "label": "子级菜单",
+        "value": "icon-folder"
+      },
+      {
+        "label": "页面",
+        "value": "icon-page"
+      },
+      {
+        "label": "链接",
+        "value": "icon-link"
+      },
+      {
+        "label": "按钮",
+        "value": "icon-btn"
+      }
+    ],
+    "id": 1,
+    "name": "系统管理",
+    "resourceNo": 10001,
+    "seq": 1,
+    "state": "closed",
+    "status": 1,
+    "statusList": [
+      {
+        "label": "启用",
+        "value": "1"
+      },
+      {
+        "label": "停用",
+        "value": "-1"
+      }
+    ],
+    "type": 0,
+    "typeList": [
+      {
+        "label": "菜单",
+        "value": "0"
+      },
+      {
+        "label": "按钮",
+        "value": "1"
+      },
+      {
+        "label": "链接",
+        "value": "2"
+      },
+      {
+        "label": "页面",
+        "value": "3"
+      }
+    ],
+    "updateDate": 1459474440000,
+    "updateUser": "admin",
+    "url": ""
+  }
+]
